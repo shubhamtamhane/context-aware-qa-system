@@ -1,4 +1,3 @@
-# llm-amazon-sales
 
 # Context-Aware Q&A System
 
